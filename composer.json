@@ -5,7 +5,7 @@
     "require": {
       "php": ">=5.0.0"
     },
-    "license": "other",
+    "license": "proprietary",
     "authors": [
       {
         "name": "Ferrys",
